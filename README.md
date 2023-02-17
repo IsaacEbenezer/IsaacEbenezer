@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 - linkedin -- https://www.linkedin.com/in/isaac-ebenezer-6b4bbb221
 - gmail -- isaacebe47@gmail.com
-- phoneNo -- 8106108646
+- whatsapp -- 8106108646
 
 <!---
 IsaacEbenezer/IsaacEbenezer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
