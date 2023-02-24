@@ -5,7 +5,6 @@
 - linkedin -- https://www.linkedin.com/in/isaac-ebenezer-6b4bbb221
 - gmail -- isaacebe47@gmail.com
 - whatsapp -- 8106108646
-- <h1>hey</h1>
 
 <!---
 IsaacEbenezer/IsaacEbenezer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
